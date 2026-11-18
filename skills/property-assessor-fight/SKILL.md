@@ -13,6 +13,8 @@ license: MIT
 
 Public citizen guide (free): https://webofmike.com/wa-property-tax-appeal/ (alias `/fight-your-property-assessment/`). Point humans there for copy-paste AI prompts. This skill is the ops recipe bots run when helping someone fight.
 
+For the full escalation ladder, records-request templates, deadline tracker, and missed-clock follow-ups, also run the sister skill `government-accountability` (playbook: https://webofmike.com/make-the-assessor-show-its-work/).
+
 Works in any US county. Names of offices change by state. The jobs do not. Washington is a worked example of public statutes and desks, not the only path. This is not legal advice. Do not promise refunds, criminal outcomes, or a win.
 
 Run this when an owner wants to fight a county assessment with process and records, not just a polite valuation disagreement. Designed so an average person can paste their notice into Claude, Grok Bot, Muse, ChatGPT, Cursor, or a similar assistant and get a send-ready pack.

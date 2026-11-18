@@ -24,7 +24,7 @@ Maintainer confirmation: [vercel-labs/skills#880](https://github.com/vercel-labs
    npx skills add themsquared/agent-skills --list
    ```
 
-   Expect `brain-linking` and `property-assessor-fight`.
+   Expect `brain-linking`, `property-assessor-fight`, and `government-accountability`.
 
 2. Install with telemetry left on (the CLI default). This is what creates the directory row:
 
