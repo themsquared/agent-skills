@@ -20,6 +20,14 @@ Not legal advice. The free public guide with copy-paste prompts is at [webofmike
 
 Use when someone pastes an assessment notice or asks to fight an assessor valuation.
 
+### government-accountability
+
+Citizen case manager for making a county assessor, or any local agency, show its work. Intake of a notice and record card, error finding, specific public-records requests with the right state statute and response clock, a deadline tracker, comps, appeal drafts, and escalation letters drafted the moment a clock is missed. Lawful by design: one real person, one property, specific requests, and the human sends everything.
+
+Not legal advice. The free public playbook with templates, a printable checklist, and a neighbor one-pager is at [webofmike.com/make-the-assessor-show-its-work](https://webofmike.com/make-the-assessor-show-its-work/).
+
+Use when someone pastes a property tax notice, record card, or records-request reply, or asks how to escalate a stalled agency.
+
 ## Install
 
 All skills in this repo:
@@ -39,6 +47,7 @@ One skill:
 ```bash
 npx skills add themsquared/agent-skills --skill brain-linking
 npx skills add themsquared/agent-skills --skill property-assessor-fight
+npx skills add themsquared/agent-skills --skill government-accountability
 ```
 
 Global install:
